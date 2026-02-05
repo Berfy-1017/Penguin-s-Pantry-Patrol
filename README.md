@@ -8,7 +8,7 @@ https://berfy-1017.github.io/Penguin-s-Pantry-Patrol/
 ## Features
 - Add ingredients with purchase date
 - Filter fresh items
-- View suggested recipes
+- View suggested recipes(south Indian)
 - Simple and responsive UI
 
 ## Tech Stack
